@@ -1,0 +1,19 @@
+{
+  "@jupyterlab/apputils-extension:notification": {
+    "checkForUpdates": false,
+    "doNotDisturbMode": true,
+    "fetchNews": "false"
+  },
+  "@jupyterlab/extensionmanager-extension:plugin": {
+    "defaultViewers": {
+      "markdown": "Markdown Preview"
+    }
+  },
+  "@jupyterlab/filebrowser-extension:browser": {
+    "navigateToCurrentDirectory": true,
+    "useFuzzyFilter": true,
+    "filterDirectories": true,
+    "showLastModifiedColumn": true,
+    "showHiddenFiles": false
+  }
+}
