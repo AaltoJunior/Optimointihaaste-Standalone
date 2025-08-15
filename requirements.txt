@@ -43,3 +43,11 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# Hiukkaset hukassa 
+numpy
+pandas
+matplotlib
+scipy
+folium
+nbformat
