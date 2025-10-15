@@ -8,3 +8,5 @@ Aalto-yliopisto Juniorin Optimiointihaaste työpaja.
 ➡️ **https://aaltojunior.github.io/Optimointihasste-Standalone/lab/index.html?path=notebooks/README.ipynb**
 
 Työpaja käyttää JupyterLite selainpohjaista ohjelmointi ympäristöä.
+
+Tämä on tarkoitettu korvaamaan perinteisen jupyterlabin työpajassa toimivuuden parantamiseksi.
