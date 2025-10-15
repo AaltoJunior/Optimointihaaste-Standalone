@@ -38,11 +38,5 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 
-# Hiukkaset hukassa 
-numpy
-pandas
-matplotlib
-scipy
-folium
-nbformat
-requests
+# Optimointihaaste
+pulp
