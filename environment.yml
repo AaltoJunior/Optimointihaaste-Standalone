@@ -1,0 +1,5 @@
+name: jupyterlite-optimointihaaste
+channels:
+  - conda-forge
+dependencies:
+  - pulp

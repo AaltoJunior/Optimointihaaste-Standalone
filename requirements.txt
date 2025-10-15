@@ -39,4 +39,4 @@ plotly>=6,<7
 bqplot
 
 # Optimointihaaste
-pulp==3.2.2
+# pulp==3.2.2
